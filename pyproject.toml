@@ -20,6 +20,8 @@ pdfplumber = "^0.11.4"
 sentence-transformers = "^3.1.1"
 faiss-cpu = "^1.8.0.post1"
 fpdf = "^1.7.2"
+torch = "2.4.1+cu121"
+sympy = "^1.13.3"
 
 
 [build-system]
